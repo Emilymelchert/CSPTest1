@@ -1,16 +1,24 @@
 h1 {
          color: black;
-         font-size: 28pt;
+         font-size: 20pt;
       }
 h2 {
          color: pink ;
-         font-size: 28pt;
+         font-size: 20pt;
       }
 h3 {
          color: white;
-         font-size: 28pt;
+         font-size: 20pt;
       }
 h4 {
          color: yellow;
+         font-size: 20pt;
+      }
+h5 {
+         color: yellow;
+         font-size: 28pt;
+      }
+h6 {
+         color: pink;
          font-size: 28pt;
       }
