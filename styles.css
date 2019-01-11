@@ -27,3 +27,21 @@ h7 {
          font-size: 12pt;
       }
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("ombre.jpeg");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+<h8>The background-image Property</h8>
+
+
+</body>
+</html>
+
