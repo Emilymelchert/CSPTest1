@@ -26,6 +26,15 @@ h7 {
          color: hotpink;
          font-size: 12pt;
       }
+h8 {
+         color: fuchsia;
+         font-size: 12pt;
+      }
+
+h9 {
+         color: aqua;
+         font-size: 12pt;
+      }
 
 <!DOCTYPE html>
 <html>
