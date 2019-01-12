@@ -35,5 +35,22 @@ h9 {
          color: aqua;
          font-size: 12pt;
       }
+ h10 {
+  color: purple;
+  font-size: 36pt;
+}
+p {
+  color: White;
+}
 
+      body {
+          }
+      
+.bg-image{
+
+background-image: url("ombre.jpeg");
+background-repeat: no-repeat;
+ height:5000%;
+
+}
 
